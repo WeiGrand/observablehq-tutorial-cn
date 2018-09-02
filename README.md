@@ -1,8 +1,8 @@
-# Observablehq 使用教程
+# Observable Notebook 使用教程
 
 ## 简介
 
-[[Observable Notebook](https://beta.observablehq.com/)](https://beta.observablehq.com/) 是一个比 `Jupyter Notebook` 更牛逼的交互式笔记本，拥有更漂亮的 UI，以及响应式的交互体验。
+[Observable Notebook](https://beta.observablehq.com/) 是一个比 `Jupyter Notebook` 更牛逼的交互式笔记本，拥有更漂亮的 UI，以及响应式的交互体验。
 
 > Jupyter Notebook 是什么？
 >
@@ -13,5 +13,5 @@
 ## 教程
 
 - 第一节：[午餐计价器](https://beta.observablehq.com/@weigrand/tutorial-1-lunch-calculator)
-- 第二节: 小狗图片
-- 第三节：可视化数据
+- 第二节: 小狗图片 // todo
+- 第三节：可视化数据 // todo
