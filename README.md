@@ -13,5 +13,5 @@
 ## 教程
 
 - 第一节：[午餐计价器](https://beta.observablehq.com/@weigrand/tutorial-1-lunch-calculator)
-- 第二节: 小狗图片 // todo
+- 第二节: [小狗图片](https://beta.observablehq.com/@weigrand/tutorial-2-dog-pictures)
 - 第三节：可视化数据 // todo
