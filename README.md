@@ -8,10 +8,10 @@
 >
 > [Jupyter Notebook](http://jupyter.org/) 是基于网页的用于交互计算的应用程序。其可被应用于全过程计算：开发、文档编写、运行代码和展示结果。
 
-本人将翻译了官方的入门教程，希望能让更多的人知道并使用这款强大的笔记应用
+本人将翻译了官方的入门教程，希望能让更多的人知道并使用这款强大的应用
 
 ## 教程
 
 - 第一节：[午餐计价器](https://beta.observablehq.com/@weigrand/tutorial-1-lunch-calculator)
 - 第二节: [小狗图片](https://beta.observablehq.com/@weigrand/tutorial-2-dog-pictures)
-- 第三节：可视化数据 // todo
+- 第三节：[可视化数据](https://beta.observablehq.com/@weigrand/tutorial-3-visualizing-data)
